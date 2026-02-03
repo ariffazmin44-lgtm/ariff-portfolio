@@ -1,4 +1,9 @@
 {
+  "engines": {
+    "node": "18.x"
+  }
+}
+{
   "name": "tailwind-nextjs-starter-blog",
   "version": "2.4.0",
   "private": true,
